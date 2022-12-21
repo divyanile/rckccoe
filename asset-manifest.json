@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ddb98a3.css",
+    "main.js": "/static/js/main.5e7ba98b.js",
+    "static/media/trek.jpg": "/static/media/trek.8b7757fdfda34553c3da.jpg",
+    "static/media/m2.jpg": "/static/media/m2.18151c1ddd540340396f.jpg",
+    "static/media/mumbai.jpeg": "/static/media/mumbai.95bb4a440def051925e0.jpeg",
+    "static/media/m3.jpg": "/static/media/m3.141b9cc675260b62bbd1.jpg",
+    "static/media/m1.jpg": "/static/media/m1.55395f8ae1fd6b4ed0fe.jpg",
+    "static/media/m4.jpg": "/static/media/m4.a069a3618686ea2afbef.jpg",
+    "static/media/ntt.png": "/static/media/ntt.fc7bab5e589c60735c38.png",
+    "static/media/back.jpeg": "/static/media/back.46641c66a92a0e31f43a.jpeg",
+    "static/media/ntt7.jpg": "/static/media/ntt7.bb42ab65ca2902d88c8a.jpg",
+    "static/media/s1.jpg": "/static/media/s1.5d144e67dfe26e9d6b12.jpg",
+    "static/media/s3.jpg": "/static/media/s3.26b0419f4339399ed1ed.jpg",
+    "static/media/s2.jpg": "/static/media/s2.3b6eb2e623669a4f36c8.jpg",
+    "static/media/s4.jpg": "/static/media/s4.a35adebcc5fbde5a0672.jpg",
+    "static/media/logo.png": "/static/media/logo.d2278b022fbc39a503e6.png",
+    "static/media/ntt5.jpg": "/static/media/ntt5.0b18ae4f915cfe778d6b.jpg",
+    "static/media/ntt3.jpg": "/static/media/ntt3.61bd996849b0c20fbbd1.jpg",
+    "static/media/ntt4.jpg": "/static/media/ntt4.0edcff04a5bb43503356.jpg",
+    "static/media/ntt6.jpg": "/static/media/ntt6.8ccd297de7d5a2745ee3.jpg",
+    "index.html": "/index.html",
+    "main.1ddb98a3.css.map": "/static/css/main.1ddb98a3.css.map",
+    "main.5e7ba98b.js.map": "/static/js/main.5e7ba98b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ddb98a3.css",
+    "static/js/main.5e7ba98b.js"
+  ]
+}
